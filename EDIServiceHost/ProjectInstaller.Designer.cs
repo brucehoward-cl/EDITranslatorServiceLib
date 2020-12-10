@@ -39,6 +39,7 @@
             // 
             // serviceInstaller1
             // 
+            this.serviceInstaller1.Description = "Windows Service for an X12 4010 EDI Translator";
             this.serviceInstaller1.ServiceName = "EDIService";
             // 
             // ProjectInstaller
